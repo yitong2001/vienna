@@ -117,24 +117,9 @@ psychoJS.start({
   expInfo: expInfo,
   resources: [
     {name: 'images/MapExample.jpg', path: 'resources/images/MapExample.jpg'},
-    {name: 'images/MapInstructions.jpg', path: 'resources/images/MapInstructions.jpg'},
-    {name: 'images/MapUebung1.jpg', path: 'resources/images/MapUebung1.jpg'},
-    {name: 'images/MapUebung2.jpg', path: 'resources/images/MapUebung2.jpg'},
-
-    {name: 'images/MapTest1.jpg', path: 'resources/images/MapTest1.jpg'},
-    {name: 'images/MapTest2.jpg', path: 'resources/images/MapTest2.jpg'},
-    {name: 'images/MapTest3.jpg', path: 'resources/images/MapTest3.jpg'},
-    {name: 'images/MapTest4.jpg', path: 'resources/images/MapTest4.jpg'},
-    {name: 'images/MapTest5.jpg', path: 'resources/images/MapTest5.jpg'},
-    {name: 'images/MapTest5a.jpg', path: 'resources/images/MapTest5a.jpg'},
-    {name: 'images/MapTest6.jpg', path: 'resources/images/MapTest6.jpg'},
-    {name: 'images/MapTest7.jpg', path: 'resources/images/MapTest7.jpg'},
-    {name: 'images/MapTest7a.jpg', path: 'resources/images/MapTest7a.jpg'},
-    {name: 'images/MapTest8.jpg', path: 'resources/images/MapTest8.jpg'},
-    {name: 'images/MapTest9.jpg', path: 'resources/images/MapTest9.jpg'},
-    {name: 'images/MapTest10.jpg', path: 'resources/images/MapTest10.jpg'},
 
     {name: 'videos/Instructions.mp4', path: 'resources/videos/Instructions.mp4'},
+
     {name: 'videos/Uebungsdurchgang_1.mp4', path: 'resources/videos/Uebungsdurchgang_1.mp4'},
     {name: 'videos/Uebungsdurchgang_2.mp4', path: 'resources/videos/Uebungsdurchgang_2.mp4'},
 
