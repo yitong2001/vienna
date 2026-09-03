@@ -392,7 +392,7 @@ async function experimentInit() {
   weitertext = new visual.TextStim({
     win: psychoJS.window,
     name: 'weitertext',
-    text: 'Continue with space bar',
+    text: '- You will first see an example and can practice for 2 trials before the actual test starts.\n- If you have any questions, please consult the examiner.\n- The videos CANNOT be paused and CANNOT be repeated. Therefore, please pay close attention while the videos are running.\n- You can take as long a break as you need after each trial.\n\nAs soon as the space bar is pressed, you will first see the map on the right-hand side.\nUse the time to see where the person starts.\n\nAfter 2 seconds, the video starts automatically.',
     font: 'Arial',
     units: undefined, 
     pos: [0, (- 0.75)], height: 0.075,  wrapWidth: undefined, ori: 0,
